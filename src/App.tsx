@@ -72,7 +72,7 @@ const App = () => {
       <ToastContainer />
       <Layout>
         <Header>
-          <H2>WILIOT</H2>
+          <H2>WebSocket</H2>
           <H3>Test</H3>
         </Header>
         <Data>
