@@ -11,7 +11,9 @@ A React App that connects to the WebSocket and presents the obtained data on a p
 # Local run
 1. Download the local WebSocket server that generates data here: https://github.com/and-dzh3/ws-srv
 2. Follow the server project README file to run the server locally.
-3. Run this (frontend) project locally with: `npm start`
+3. Run this (frontend) project locally with:
+`npm install`
+`npm start`
 4. View the project locally at http://localhost:3000
 
 ![image info](./pictures/screenshot.png)
