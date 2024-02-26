@@ -1,4 +1,4 @@
-# The frontend tech task
+# Frontend task
 
 Create a React App that connects to the WebSocket and presents the obtained data on a plot.
 
