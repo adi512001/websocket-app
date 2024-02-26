@@ -9,9 +9,9 @@ Save 5 minutes data, so the time range on a plot should not be more than 5 min, 
 Unit tests are optional.
 
 # Local run
-Download the local WebSocket server that generates data here: https://github.com/and-dzh3/ws-srv
-Follow the project README file to run the server locally.
-Run this project locally with: npm start
-View the project locally at http://localhost:3000
+1. Download the local WebSocket server that generates data here: https://github.com/and-dzh3/ws-srv
+2. Follow the project README file to run the server locally.
+3. Run this project locally with: npm start
+4. View the project locally at http://localhost:3000
 
 ![image info](./pictures/screenshot.png)
